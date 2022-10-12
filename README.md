@@ -8,9 +8,9 @@ Este projeto consiste em criar uma pokedex em ReactJS consumindo uma [API](pokea
 
 ## 🔨 Tecnologias:
 
-- [ReactJs][reactjs]
-- [Fetch()][fectchAPI]
-
+- HTML / CSS
+- ReactJS
+- FectchAPI
 
 
 ## 🎨 Layout
