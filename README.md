@@ -6,6 +6,12 @@
 
 Este projeto consiste em criar uma pokedex em ReactJS consumindo uma [API](pokeapi.co) pública para aplicação dos conhecimentos adquiridos durante os estudos na Labenu
 
+## 🌟 Demo
+
+Acesso a demonstração do projeto rodando.
+[Link](https://pokedexlabenu.surge.sh/)
+
+
 ## 🔨 Tecnologias:
 
 - HTML / CSS
@@ -13,7 +19,6 @@ Este projeto consiste em criar uma pokedex em ReactJS consumindo uma [API](pokea
 - FectchAPI
 
 
-## 🎨 Layout
 
 ## 🔓 Funcionalidades
 
@@ -29,10 +34,6 @@ Este projeto consiste em criar uma pokedex em ReactJS consumindo uma [API](pokea
 [ ] Batalha de pokemons
 [ ] Página dedicada aos pokemons adicionados
 [ ] Página 404 
-## 🌟 Demo
-
-Acesso a demonstração do projeto rodando.
-[Link](https://pokedexlabenu.surge.sh/)
 
 
 ## 🚀 Como rodar este projeto
