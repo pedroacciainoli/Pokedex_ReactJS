@@ -8,10 +8,9 @@ Este projeto consiste em criar uma pokedex em ReactJS consumindo uma [API](pokea
 
 ## 🔨 Tecnologias:
 
+- [ReactJs][reactjs]
+- [Fetch()][fectchAPI]
 
-- HTML / CSS
-- ReactJS
-- FectchAPI
 
 
 ## 🎨 Layout
@@ -45,7 +44,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/pedroacciainoli/Pokedex_ReactJS
+$ git clone urlgit
 # Acesse a pasta do projeto no terminal/cmd
 $ cd pokedex
 ```
